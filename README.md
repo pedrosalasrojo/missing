@@ -1,4 +1,5 @@
-# missing
+# Estimating Inequality with Missing Incomes
+
 Codes and data to replicate Brunori, P., Salas-Rojo, P. and Verme, P. (2022) Estimating Inequality with Missing Incomes.
 
 This folder includes three files:
