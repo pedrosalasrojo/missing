@@ -1,0 +1,3 @@
+nids.csv : Database.
+mcar_example: Mocking example to generate a MCAR pattern and correct it with single parametric imputation.
+mar_weights: Vector of weights used to generate the MAR pattern.
