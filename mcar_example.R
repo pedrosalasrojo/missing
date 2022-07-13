@@ -1,5 +1,4 @@
 
-#         Date: 28/06/2021
 #         Dataset: NiDS 5
 #         Project: Example of corruption and simple imputation with MCAR
 
@@ -13,7 +12,7 @@ results <- NA
 com <- NA
 reps <- 5                             # set number of iterations
 sequence <- c(5, 10, 25, 40, 50)      # missing shares
-pat_emp <- t(matrix(c(0, rep(1,42)))) # define the pattern (0=missing, 1=complete)
+pat_emp <- t(matrix(c(0, rep(1,42)))) # define the missing pattern (0=missing, 1=complete)
 
 # Get data ----
 
